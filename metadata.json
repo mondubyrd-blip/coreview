@@ -1,0 +1,6 @@
+{
+  "name": "CoreViewer",
+  "description": "An immersive, interactive 3D asset viewer, rigging hierarchy inspector, and animation playback dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
